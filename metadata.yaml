@@ -14,12 +14,17 @@ contributor:
     gutenberg_agent_id: '53319'
     url: http://www.gutenberg.org/2009/agents/53319
     wikipedia: https://fr.wikipedia.org/wiki/Louis_Postif
+covers:
+- cover_type: archival
+  image_path: 72127-h/images/cover.jpg
 creator:
   author:
     agent_name: Curwood, James-Oliver
     gutenberg_agent_id: '56552'
     url: http://www.gutenberg.org/2009/agents/56552
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/72127#Kazan
 gutenberg_issued: '2023-11-14'
 identifiers:
   gutenberg: '72127'
